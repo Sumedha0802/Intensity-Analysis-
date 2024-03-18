@@ -1,0 +1,9 @@
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install seaborn
+!pip install nltk
+!pip install textblob
+!pip install sklearn
+!pip install re
+!pip install spacy
