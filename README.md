@@ -6,6 +6,7 @@
 **Training and validation dataset🔡:** 
 
 1- We have 3 base dataset for each intensity {Sad, Happy, Anger} that is used to train the basic model.
+
 2- cleaned_data.csv is more deep processed data after the data clean is done (lemmatization, removal of stopwords, etc).
 
 ## Comparison of models:
