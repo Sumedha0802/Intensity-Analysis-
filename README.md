@@ -26,10 +26,10 @@ The accuracy metric, which measures the proportion of correctly classified insta
 This result underscores the effectiveness of logistic regression in handling text classification tasks and highlights the utility of count vectorization as a text representation technique. By leveraging these methods, our model demonstrates promising capabilities in accurately predicting emotion intensity in text reviews, thereby empowering businesses to gain valuable insights into customer sentiment and enhance overall customer satisfaction.
 
 
-****Output****
+**Output**
 <b>Prediction of intensity from sentences </b>
 
-	**input_text	/ predicted_emotion**
+	**input_text & predicted_emotion**
 0	I am so angry at you!!!!!	Anger
 1	you ve hit a new low with a danger of blm fascist slogan please stop it before too late stop	Anger
 2	I love my doggg	Happy
