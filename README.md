@@ -1,5 +1,6 @@
 ## Intensity-Analysis
 <b><i>Intensity Analysis (model using NLP and Python)</i></b>
+The objective of this project is to develop an intelligent system using NLP to predict the intensity in the text reviews. By analyzing various parameters and process data, the system will predict the intensity where its happiness, angriness or sadness. This predictive capability will enable to proactively optimize their processes, and improve overall customer satisfaction.
 
 **Intensity Analysis** is a project to develop rule-based and deep learning algorithms with an aim to first appropriately detect the different types of Intensity {sad, happy, anger} contained in a collection of English sentences and then accurately predict the overall Intensity of the sentences.
 
